@@ -1,0 +1,13 @@
+#
+#Mon May 15 21:51:51 BST 2023
+default.languagetoolchain.version=2.41
+default.Pack.dfplocation=/home/some/.mchp_packs/Microchip/PIC16Fxxx_DFP/1.4.149
+conf.ids=default
+default.languagetoolchain.dir=/home/some/microchip/xc8/v2.41/bin
+host.id=0
+default.platformTool.md5=null
+configurations-xml=d27aec1e9fb96ff91b8ee7cf4c04e728
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=bcd6e5453a11ce86aaffd5305e838602
+default.com-microchip-mplab-nbide-toolchain-xc8-XC8LanguageToolchain.md5=0e8fad895b9b8299a6c08191595e8207
+proj.dir=/home/some/MPLABXProjects/timer2/timer2_one_milli_asgn4.X
+host.platform=linux

@@ -1,0 +1,13 @@
+#
+#Mon May 15 14:27:23 BST 2023
+default.languagetoolchain.version=2.41
+default.Pack.dfplocation=/home/some/.mchp_packs/Microchip/PIC16Fxxx_DFP/1.4.149
+conf.ids=default
+default.languagetoolchain.dir=/home/some/microchip/xc8/v2.41/bin
+host.id=0
+default.platformTool.md5=null
+configurations-xml=2042dc2db783aeef27ddfb9f4230b7a9
+com-microchip-mplab-nbide-embedded-makeproject-MakeProject.md5=bcd6e5453a11ce86aaffd5305e838602
+default.com-microchip-mplab-nbide-toolchain-xc8-XC8LanguageToolchain.md5=0e8fad895b9b8299a6c08191595e8207
+proj.dir=/home/some/MPLABXProjects/training/press_alternate_blink_asgn10.X
+host.platform=linux
